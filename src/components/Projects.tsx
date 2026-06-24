@@ -44,7 +44,7 @@ const projects = [
     description:
       'JavaFX and MySQL based desktop application for movie booking and cinema management.',
     tech: ['JavaFX', 'MySQL'],
-    github: 'https://github.com/rabeyakhanba1019v-cmyk',
+    github: 'https://github.com/rabeyakhanba1019v-cmyk/Movie-Ticket-Management-system-',
     icon: Film,
     color: 'from-pink-500 to-rose-500',
   },
