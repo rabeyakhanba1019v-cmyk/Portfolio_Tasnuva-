@@ -35,7 +35,7 @@ const projects = [
     description:
       'Java console application for managing student records, authentication, course advising, and file-based storage.',
     tech: ['Java', 'OOP', 'File Handling'],
-    github: 'https://github.com/rabeyakhanba1019v-cmyk',
+    github: 'https://github.com/rabeyakhanba1019v-cmyk/student-managment-system-',
     icon: Users,
     color: 'from-orange-500 to-red-500',
   },
